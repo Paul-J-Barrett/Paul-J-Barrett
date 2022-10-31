@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Paul-J-Barrett on twitter and instagram as @codersjunto
-- 👀 I’m interested in rust and python
-- 🌱 I’m currently learning rust and aws
-- 💞️ I’m looking to collaborate on selling partner sp apis
-- 📫 How to reach me through twitter @codersjunto
+- 👋 Hi, I’m @Paul-J-Barrett here and on twitter and instagram as @codersjunto
+- 👀 I’m interested in Rust and Python
+- 🌱 I’m currently learning Rust and AWS
+- 💞️ I’m looking to collaborate on Amazon Selling Partner APIs or learning Rust.
+- 📫 You can reach me through twitter @codersjunto or linkedin.
 
 <!---
 Paul-J-Barrett/Paul-J-Barrett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
